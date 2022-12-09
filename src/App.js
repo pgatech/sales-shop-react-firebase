@@ -4,8 +4,8 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 // Pages Component
 import Registrasi from './pages/registrasi';
-import Login from './pages/login/Index';
-import LupaPassword from './pages/lupa-password/Index';
+import Login from './pages/login';
+import LupaPassword from './pages/lupa-password';
 import NotFound from './pages/404';
 import Private from './pages/private';
 
